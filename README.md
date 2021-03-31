@@ -1,24 +1,17 @@
-# README
+# Rails REST
+## Simple REST api to perform CRUDE operation
+### Technologies used:
+- **Ruby on Rails 6**
+- **SQLite**
+### used 'Faker' to generate fake data to test my api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## INSTALL DEPENDENCIES
+```
+$ bundle install
+```
 
-Things you may want to cover:
+## RUN MIGRATION
+```
+$ rails db:migrate
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
